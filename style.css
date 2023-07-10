@@ -49,6 +49,7 @@ nav ul li a:hover  {
     font-weight: bold;
     font-size: 40px;
     text-transform:lowercase;
+    cursor:default;
 }
 
 
